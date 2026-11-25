@@ -20,8 +20,12 @@
       <div class="card soon-card"><h3>Mes demandes</h3><p>Rendez-vous reçus (module M2, bientôt).</p></div>
       <div class="card soon-card"><h3>Mon agenda</h3><p>Rendez-vous confirmés (module M2, bientôt).</p></div>
     </div>
-  <?php else: ?>
+ <?php else: ?>
     <div class="grid-3">
+      <a class="card link" href="index.php?action=profile">
+        <h3>Mon profil personnel</h3>
+        <p>Consulter mes informations et gérer mon compte.</p>
+      </a>
       <div class="card soon-card"><h3>Autoévaluation</h3><p>Fais le point sur ta situation (M1, bientôt).</p></div>
       <div class="card soon-card"><h3>Trouver un professionnel</h3><p>Annuaire et rendez-vous (M2, bientôt).</p></div>
       <div class="card soon-card"><h3>Mon parcours</h3><p>Objectifs et progression (M3, bientôt).</p></div>
