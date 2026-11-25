@@ -1,0 +1,6 @@
+<main id="main">
+ <section class="page-hero"><div class="container"><ol class="crumbs"><li><a href="index.php?action=home">Home</a></li><li aria-current="page">Prevention & Education</li></ol>
+  <h1>Prevention & Education</h1><p class="lead" style="margin-top:1rem;max-width:58ch">Clear, non-judgmental resources to better understand addiction, spot early signs and talk about them.</p></div></section>
+ <section class="section"><div class="container"><div class="prose"><h2>What you will find here</h2><ul class="list-trail"><li>Articles written to inform, not to scare</li><li>Quizzes to test what you know and clear up myths</li><li>Guides for talking to a friend or relative</li></ul><p class="alert alert-warn" style="margin-top:2rem">This service is still being built. For now, nothing on this page collects, stores or sends your information.</p>
+ <p style="margin-top:2rem"><a class="btn btn-primary" href="index.php?action=info&amp;page=community">See awareness campaigns</a></p></div></div></section>
+</main>

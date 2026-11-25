@@ -1,0 +1,6 @@
+<main id="main">
+ <section class="page-hero"><div class="container"><ol class="crumbs"><li><a href="index.php?action=home">Home</a></li><li aria-current="page">Contact</li></ol>
+  <h1>Contact</h1><p class="lead" style="margin-top:1rem;max-width:58ch">Questions about KHOTWA or the project? Write to the team.</p></div></section>
+ <section class="section"><div class="container"><div class="auth"><div class="card"><form data-proto novalidate><div class="field"><label for="name">Your name</label><input class="input" id="name" name="name" type="text" autocomplete="name"></div><div class="field"><label for="email">Email</label><input class="input" id="email" name="email" type="email" autocomplete="email"></div><div class="field"><label for="message">Message</label><textarea class="input" id="message" name="message" rows="5"></textarea></div><button class="btn btn-primary" type="submit">Send message</button>
+ <p class="alert proto-result" hidden style="margin-top:1rem" role="status">This is a design preview. Accounts are not available yet, and nothing you typed was sent or stored.</p></form></div></div></div></section>
+</main>

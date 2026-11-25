@@ -1,0 +1,6 @@
+<main id="main">
+ <section class="page-hero"><div class="container"><ol class="crumbs"><li><a href="index.php?action=home">Home</a></li><li aria-current="page">Recovery Journey</li></ol>
+  <h1>Recovery Journey</h1><p class="lead" style="margin-top:1rem;max-width:58ch">Your personal space to set goals, follow your progress and recognise every step forward, however small.</p></div></section>
+ <section class="section"><div class="container"><div class="prose"><h2>What you will find here</h2><ul class="list-trail"><li>Goals you define yourself, broken into small steps</li><li>A simple view of your progress over time</li><li>A place for your Future Self: the person you are working towards</li></ul><p class="alert alert-warn" style="margin-top:2rem">This service is still being built. For now, nothing on this page collects, stores or sends your information.</p>
+ <p style="margin-top:2rem"><a class="btn btn-primary" href="index.php?action=info&amp;page=smart-orientation">Start with Smart Orientation</a></p></div></div></section>
+</main>

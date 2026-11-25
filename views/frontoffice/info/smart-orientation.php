@@ -1,0 +1,6 @@
+<main id="main">
+ <section class="page-hero"><div class="container"><ol class="crumbs"><li><a href="index.php?action=home">Home</a></li><li aria-current="page">Smart Orientation</li></ol>
+  <h1>Smart Orientation</h1><p class="lead" style="margin-top:1rem;max-width:58ch">A guided self-assessment to help you put words on your situation and see which kind of support might suit you.</p></div></section>
+ <section class="section"><div class="container"><div class="prose"><h2>What you will find here</h2><ul class="list-trail"><li>Short, private questions about your habits and how you feel</li><li>General orientation suggestions, never a diagnosis</li><li>Pointers to the KHOTWA resources that match your answers</li></ul><p class="alert alert-warn" style="margin-top:2rem">This service is still being built. For now, nothing on this page collects, stores or sends your information.</p>
+ <p style="margin-top:2rem"><a class="btn btn-primary" href="index.php?action=info&amp;page=medical-network">Next: find support</a></p></div></div></section>
+</main>

@@ -1,0 +1,6 @@
+storage/*.log
+img/uploads/*
+!img/uploads/.gitkeep
+!img/uploads/.htaccess
+.vscode/
+*.zip
